@@ -4,7 +4,7 @@
 
 1. Martín Gómez, Alejandro
 1. Rodríguez Galán, Sergio
-1. Apellidos, Nombre
+1. Aragón López, Isidro
 1. Apellidos, Nombre
 
 ## 1. Introducción al problema
